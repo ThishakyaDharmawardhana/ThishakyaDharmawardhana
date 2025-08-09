@@ -12,9 +12,12 @@
   <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3buntz%2f9rbsbinjahl%2b6bvmg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3buntz%2f9rbsbinjahl%2b6bvmg%3d%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/thishakya-dharmawardhana-b0808228b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/public-profile/settings?lipi=urn%3ali%3apage%3ad_flagship3_profile_self_edit_contact-info%3buntz%2f9rbsbinjahl%2b6bvmg%3d%3d" height="30" width="40" /></a>
+  
 <a href="https://instagram.com/https://www.instagram.com/thishakya.dharmawardhana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thishakya.dharmawardhana/" height="30" width="40" /></a>
+
 <a href="https://www.behance.net/https://www.behance.net/thishakdharmaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/thishakdharmaw" height="30" width="40" /></a>
+
 <a href="https://medium.com/https://medium.com/@thishakya.7376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@thishakya.7376" height="30" width="40" /></a>
 </p>
 
