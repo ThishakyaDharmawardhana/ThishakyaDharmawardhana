@@ -5,7 +5,7 @@
 
 - 🔭 I’m an undergraduate pursuing a **BSc Honours in Business Information Systems** at the **University of Sri Jayawardenepura**.
 
-- 🌱 I’m currently working on **improving my skills in **React**, **JavaScript**, and **OOP with C#**, while diving deeper into **Cybersecurity**.**
+- 🌱 I’m currently working on **improving my skills in **React**, **JavaScript**, **OOP with C#**, and **Python** while diving deeper into **Cybersecurity**.**
 
 - 📫 How to reach me **thishakyadarmawardhana@gmail.com**
   <br>
